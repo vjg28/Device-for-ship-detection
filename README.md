@@ -3,9 +3,9 @@ Currently, small marine vessels lack any safety mechanisms for anticollision wit
 
 This calls for cheap, power-efficient and independent anti-collision system which can be easily installed on these fishing vessels. The currently available systems have a subsidized price around ₹35000.
 
-We designed a cost effective system by detecting the power of AIS signals that costs around ₹5000.
+We designed a cost effective system that costs around ₹5000 by detecting the power of AIS signals.
 
 **For detailed documentation -** refer *IIT Guwahati Submission.pdf*  
 **For summarized presentation -** refer *IIT Guwahati Presentation.pdf*
 
-**Note -** We won the bronze medal at the annual *Inter-IIT Tech Meet, 2018* held at IIT Madras for this project representing IIT Guwahati and competeing against 18 other IITs.
+**Note -** We won the bronze medal at the annual *Inter-IIT Tech Meet, 2018* held at IIT Madras for this project representing IIT Guwahati and competing against 18 other IITs.
