@@ -6,6 +6,6 @@ This calls for cheap, power-efficient and independent anti-collision system whic
 We designed a cost effective system by detecting the power of AIS signals that costs around ₹5000.
 
 **For detailed documentation -** refer *IIT Guwahati Submission.pdf*
->**For summarized presentation -** refer *IIT Guwahati Presentation.pdf*
+**For summarized presentation -** refer *IIT Guwahati Presentation.pdf*
 
 **Note -** We won the bronze medal at the annual *Inter-IIT Tech Meet, 2018* held at IIT Madras for this project representing IIT Guwahati and competeing against 18 other IITs.
